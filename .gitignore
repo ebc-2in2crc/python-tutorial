@@ -134,6 +134,7 @@ dmypy.json
 *.swp
 *.swo
 *~
+.junie
 
 # VSCode
 .vscode/
